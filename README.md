@@ -35,7 +35,7 @@ Desenvolvedor web com conhecimento intermediário em **HTML**, **CSS** e **JavaS
 
 ## 📫 Contato
 
-- 💌 E-mail: [meu-@email](vinig3496@gmail.com)
+- 💌 E-mail: [meu-@email](mailto:vinig3496@gmail.com)
 - 💼 LinkedIn: [Meu-linkedin](https://www.linkedin.com/in/vinicius-dos-santos-barbosa-8b623a247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 🌐 Portfólio: [Meu-portfolio](https://vinyx16.github.io/Meu-portfolio/)
 - 💻 GitHub: [Meu-github](https://github.com/Vinyx16)
