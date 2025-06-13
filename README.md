@@ -38,8 +38,8 @@ Desenvolvedor web com conhecimento intermediário em **HTML**, **CSS** e **JavaS
 
 ## 📊 Estatísticas GitHub
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinyx16&show_icons=true&theme=github_dark&hide=prs,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinyx16&layout=compact&theme=github_dark)
+![Tecnologias](https://github-readme-stats.vercel.app/api?username=Vinyx16&show_icons=true&theme=github_dark&hide=prs,issues)
+![Estatisticas do github de Vinicius dos Santos](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinyx16&layout=compact&theme=github_dark)
 
 
 ## 📫 Contato
