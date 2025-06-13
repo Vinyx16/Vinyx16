@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Vinicius
 
-Desenvolvedor web com experiência em **HTML**, **CSS**, **JavaScript**, **Python** e **Django**. Gosto de transformar ideias em aplicações funcionais e intuitivas. Trabalho tanto no front-end quanto no back-end, sempre buscando a melhor experiência para o usuário.
+Desenvolvedor web com conhecimento intermediário em **HTML**, **CSS** e **JavaScript** no front-end. Estou iniciando no back-end com **Python** e **Django**. Gosto de transformar ideias em aplicações funcionais e intuitivas. Trabalho tanto no front-end quanto no back-end, sempre buscando a melhor experiência para o usuário.
 
 ---
 
