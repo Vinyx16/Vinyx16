@@ -26,10 +26,6 @@ Desenvolvedor web com conhecimento intermediário em **HTML**, **CSS** e **JavaS
 
 ---
 
-## 📊 Estatísticas GitHub
-
-
-## 📊 Estatísticas GitHub
 
 ## 📊 Estatísticas GitHub
 
