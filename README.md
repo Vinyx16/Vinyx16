@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Olá, me chamo Vinicius
 
-<!--
-**Vinyx16/Vinyx16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor web com experiência em **HTML**, **CSS**, **JavaScript**, **Python** e **Django**. Gosto de transformar ideias em aplicações funcionais e intuitivas. Trabalho tanto no front-end quanto no back-end, sempre buscando a melhor experiência para o usuário.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
+
+---
+
+## 📂 Projetos
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| 💼 **Portfolio Pessoal** | Site para apresentar meus projetos e habilidades. | HTML, CSS, JavaScript |
+| 🧾 **Sistema de Blog** | Plataforma com cadastro, login e publicação de posts. | Django, Python, HTML |
+| 📊 **Dashboard de Dados** | Visualização de dados em tempo real com gráficos. | Django, JS, Chart.js |
+
+---
+
+## 📫 Contato
+
+- 💌 E-mail: [meu-@email](vinig3496@gmail.com)
+- 💼 LinkedIn: [Meu-linkedin](https://www.linkedin.com/in/vinicius-dos-santos-barbosa-8b623a247?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 🌐 Portfólio: [Meu-portfolio](https://vinyx16.github.io/Meu-portfolio/)
+- 💻 GitHub: [Meu-github](https://github.com/Vinyx16)
+
+---
+
+> _“Código limpo é como poesia: deve ser simples, direto e expressar claramente a intenção.”_
+
+---
+
+⭐️ Se você gostou do meu trabalho, fique à vontade para dar uma estrela no repositório ou entrar em contato!
