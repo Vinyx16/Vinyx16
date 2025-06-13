@@ -11,6 +11,8 @@ Desenvolvedor web com conhecimento intermediário em **HTML**, **CSS** e **JavaS
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -21,18 +23,6 @@ Desenvolvedor web com conhecimento intermediário em **HTML**, **CSS** e **JavaS
 | 💼 **Portfolio Pessoal** | Site para apresentar meus projetos e habilidades. | HTML, CSS, JavaScript |
 | 🧾 **Sistema de Blog** | Plataforma com cadastro, login e publicação de posts. | Django, Python, HTML |
 | 📊 **Dashboard de Dados** | Visualização de dados em tempo real com gráficos. | Django, JS, Chart.js |
-
----
-
-## 🚀 Linguagens e Tecnologias
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
